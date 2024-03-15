@@ -8,7 +8,7 @@
 </details>
 
 
-<- [ ] ABOUT THE PROJECT -->
+
 ## Acerca del proyecto
 
 Este proyecto pertenece al segundo hack titulado hack-pull-request-1
